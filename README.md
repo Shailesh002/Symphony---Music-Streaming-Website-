@@ -12,4 +12,6 @@ Website for Music Lovers
 ![Explore](https://user-images.githubusercontent.com/93926245/215241700-881bb1a9-d55d-41c5-a8bd-156c75ed54a0.png)
 
 # About
-![About](https://user-images.githubusercontent.com/93926245/215241712-eed9cc29-7b4d-47d2-a1ad-45ad35d1b0ab.png)
+![About1](https://user-images.githubusercontent.com/93926245/222113490-18022268-2c65-43a5-8ff4-5305bdade22d.png)
+
+![About 2](https://user-images.githubusercontent.com/93926245/222113540-15ee057f-5ac1-486d-a3a6-39209c1601a7.png)
