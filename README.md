@@ -1,5 +1,5 @@
 # Symphony---Music-Streaming-Website-
-Website for Music Lovers
+Website for Western classical Music Lovers
 
 # Home 
 ![Home1](https://user-images.githubusercontent.com/93926245/215241677-6c0d2d00-f427-4fa0-81cf-c9183532c925.png)
